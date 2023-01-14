@@ -1,0 +1,211 @@
+img{/* image 1 */
+
+    position: absolute;
+    width: 154px;
+    height: 55px;
+    left: 253px;
+    top: 50px;
+    
+    background: url(image\ 1.png);
+    }
+    h1 {
+        /* Log in */
+
+position: absolute;
+width: 71px;
+height: 32px;
+left: 295px;
+top: 220px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+ }
+
+ figure{
+    background-image:url(tela.png) ;
+/* image 2 */
+
+position: absolute;
+width: 720px;
+height: 840px;
+left: 720px;
+top: 0px;
+
+background: url(tela.png);
+opacity: 0.84;
+
+
+
+ }
+
+ #email{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 340px;
+height: 40px;
+left: 220px;
+top: 300px;
+
+background: #F4F4F4;
+border-radius: px;
+
+ }
+ 
+ #senha{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 340px;
+height: 56px;
+left: 220px;
+top: 350px;
+
+background: #F4F4F4;
+border-radius: px;
+
+ }
+
+
+ 
+
+h3{
+    /* Log in */
+
+position: absolute;
+width: 71px;
+height: 32px;
+left: 295px;
+top: px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+#lembrete{
+/* Lembre de mim */
+
+position: absolute;
+width: 119px;
+height: 21px;
+left: 183px;
+top: 500px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+#esqueci{
+    /* Esqueci minha senha */
+
+position: absolute;
+width: 163px;
+height: 21px;
+left: 337px;
+top: 500px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+#check{
+    /* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 160px;
+top: 500px;
+
+border: 1px solid #000000;
+
+}
+
+#b_entrar{
+/* Entrar */
+
+position: absolute;
+width: 49px;
+height: 23.52px;
+left: 306px;
+top: 550px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+}
+
+button{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 56px;
+left: 160px;
+top: 550px;
+
+background: #2A88C8;
+border-radius: 10px;
+
+}
+
+#criar{
+    /* Desejo criar minha conta */
+
+position: absolute;
+width: 188px;
+height: 21px;
+left: 236px;
+top: 650px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
